@@ -9,6 +9,9 @@ dependencies = [
     "datasets>=3.6.0",
     "ipykernel>=6.29.5",
     "sentence-transformers>=4.1.0",
+    "torch>=2.7.0",
+    "torchaudio>=2.7.0",
+    "torchvision>=0.22.0",
 ]
 
 [[tool.uv.index]]
